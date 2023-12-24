@@ -1,1 +1,1 @@
-print("hello world!")
+message = input('enter a message: ')
